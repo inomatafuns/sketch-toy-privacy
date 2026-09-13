@@ -1,6 +1,7 @@
-# Sketch Toy !! Privacy Policy
+# Iroha Wonder Board Legal Pages
 
-Public privacy policy for **Sketch Toy !!**, maintained by `iroha_company`.
+Public privacy policy and third-party license notices for **Iroha Wonder Board**,
+maintained by `iroha_company`.
 
 Published URL: <https://inomatafuns.github.io/sketch-toy-privacy/>
 
